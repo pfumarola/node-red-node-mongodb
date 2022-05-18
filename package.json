@@ -7,7 +7,7 @@
     },
     "repository" : {
         "type":"git",
-        "url":"https://github.com/node-red/node-red-nodes.git",
+        "url":"https://github.com/pfumarola/node-red-node-mongodb.git",
         "directory": "tree/master/storage/mongodb"
     },
     "license": "Apache-2.0",
